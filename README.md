@@ -7,9 +7,16 @@
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express  
-- **UI/UX:** Figma, Wireframing, Prototyping  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
@@ -26,9 +33,4 @@ Love exploring **full-stack development** and constantly improving my design ski
 
 ---
 
-## 🔗 Connect with me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: yourmail@example.com  
-
----
 ⭐️ From [chayanont-tanthanasuk](https://github.com/chayanont-tanthanasuk)
