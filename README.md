@@ -26,11 +26,4 @@ Love exploring **full-stack development** and constantly improving my design ski
 
 ---
 
-## 📊 GitHub Stats  
-![Chayanont's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanont-tanthanasuk&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayanont-tanthanasuk&layout=compact&theme=radical)
-
----
-
 ⭐️ From [chayanont-tanthanasuk](https://github.com/chayanont-tanthanasuk)
