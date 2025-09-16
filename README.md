@@ -6,6 +6,12 @@
 
 ---
 
+## 🌟 Featured Project  
+🔹 **[SAKDEE Admin Panel – Live Demo](https://northsnx.github.io/SAKDEE.App/index.html)**  
+Full-stack project with **React, Node.js, Prisma, PostgreSQL**  
+
+---
+
 ## 🛠 Tech Stack  
 
 <p align="center">
@@ -38,8 +44,7 @@
 
 ---
 
-## 📌 Highlight Projects  
-- 🔹 **[SAKDEE Admin Panel](#)** – Full-stack project with React, Node.js, Prisma, PostgreSQL  
+## 📌 Other Projects  
 - 🔹 **IoT Predictive Maintenance (MQTT + Raspberry Pi 4)** – Real-time machine monitoring  
 - 🔹 **UI/UX Design Portfolio** – Figma projects for web & mobile applications  
 
