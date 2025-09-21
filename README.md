@@ -51,6 +51,15 @@ Full-stack project with **React, Node.js, Prisma, PostgreSQL**
 - 🔹 **Full-Stack Web Apps Portfolio** – Projects using React, Node.js, Prisma, PostgreSQL  
 
 ---
+## 🛠 Skills
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=fff)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma&logoColor=fff)
+
 
 ## 🎯 Career Goal  
 Seeking **Internship Opportunities (Jan – Apr 2026)**  
